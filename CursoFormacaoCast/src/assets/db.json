@@ -1,0 +1,47 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "descricao": "vai na fé",
+      "dataInicio": "17/07/2020",
+      "dataFim": "19/07/2020",
+      "qtdAluno": 5,
+      "categoria": {
+        "id": 1,
+        "descricao": "Programação"
+      }
+    },
+    {
+      "descricao": "yhjytjytj",
+      "dataInicio": "12/12/2020",
+      "dataFim": "20/08/2020",
+      "qtdAluno": "10",
+      "categoria": {
+        "id": 2,
+        "descricao": "yhjytjytj"
+      },
+      "id": 2
+    },
+    {
+      "categoria": {
+        "id": 1,
+        "descricao": "Programação"
+      },
+      "descricao": "yhjytjytj",
+      "dataInicio": "12/12/2020",
+      "dataFim": "15/12/2020",
+      "qtdAluno": "10",
+      "id": 3
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "descricao": "Programação"
+    },
+    {
+      "id": 2,
+      "descricao": "yhjytjytj"
+    }
+  ]
+}

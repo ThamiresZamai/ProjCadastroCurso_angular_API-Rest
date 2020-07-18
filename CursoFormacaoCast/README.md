@@ -1,7 +1,4 @@
-# ProjCadastroCurso_angular_API-Rest
-Projeto de cadastro de curso feito em angular 7 com asp.Net core, swagger e entity framework
-
-# Cadastro de Curso de Formacao
+# CursoFormacaoCast
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
